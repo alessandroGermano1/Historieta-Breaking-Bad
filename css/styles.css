@@ -1,0 +1,76 @@
+* {
+    margin: 5px;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+body {
+    background-color: #7e1313;
+    color: #cfc0c0;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.deslizador {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+}
+
+.Section1 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
+
+.Section2 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
+.Section3 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
+.Section4 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
+.Section5 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
+.Section6 img{
+    background-color: #111010;
+    color: #f7efef;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 800px;
+}
